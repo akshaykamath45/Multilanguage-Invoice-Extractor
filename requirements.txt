@@ -1,0 +1,6 @@
+google-generativeai
+streamlit
+python-dotenv
+langchain
+chromadb - for vector embedding
+PyPDF2 - load / read pdf
